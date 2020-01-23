@@ -2,7 +2,7 @@
 
 A *notebook* is an interactive document that can hold both executable code sections and markdown (simple format) documentation. They are accessed in an interface that runs in a web browser, meaning you can have access to a programming environment with no local setup. Both ``R`` and ``Python`` languages are supported.
 
-These instructions explain how to access the notebook environment provided by Microsoft at [notebooks.azure.com](http://notebooks.azure.com). Other similar environments are provided by e.g. Google, but as we use Microtsoft Office 365 for mail at Kew, we can be sure that all attendees will have a Microsoft account.
+These instructions explain how to access the notebook environment provided by Microsoft at [notebooks.azure.com](http://notebooks.azure.com). Other similar environments are provided by e.g. Google, but as we use Microsoft Office 365 for mail at Kew, we can be sure that all attendees will have a Microsoft account.
 
 1. Open https://notebooks.azure.com/ and click the "Sign in" link in the header. You'll need to authenticate via two factor authentication, so you'll need access to your device to receive the code.
 
