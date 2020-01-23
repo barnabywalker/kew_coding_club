@@ -28,7 +28,7 @@ These instructions explain how to access the notebook environment provided by Mi
 
 #![new notebook](step6-project-home-new-notebook.png)
 
-7. Select language
+7. Give it a name ``codingclub.ipynb`` and select language
 
 #![select language](step7-create-project-select-language.png)
 
