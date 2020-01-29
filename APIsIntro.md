@@ -1,4 +1,4 @@
-# APIs and its use
+# APIs and their use
 
 # What is an API?
 
