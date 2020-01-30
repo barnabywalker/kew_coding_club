@@ -1,9 +1,9 @@
-# kew_coding_club
-A coding club at Kew
+# Kew Coding Club
+This is as repository holding resources for running our coding club at Kew. Our coding club is heavily inspired by the [INBO coding club](https://inbo.github.io/coding-club/), and borrows from it in many places.
 
 ## Coding resources
 
-See [notebook-setup/index.md](notebook-setup/index.md) for details on how to access Microsoft Azure notebooks - a Jupyter notebook interface for R and Python.
+See [notebook_setup.md](docs/notebook_setup.md) for details on how to access Microsoft Azure notebooks - a Jupyter notebook interface for R and Python.
 
 ## API resources
 
