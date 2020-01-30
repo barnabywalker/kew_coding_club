@@ -16,7 +16,7 @@ This is an **interactive** questionnaire! :scream:
 
 For each question, you can add your own answer to the poll in the grey area below a question by editing the text between the three backticks in your editing window.
 
-For example, if the question is **what is your favourite tree** :evergreen tree:?
+For example, if the question is **what is your favourite tree** :evergreen_tree:?
 
 ```
 * oak
@@ -68,7 +68,7 @@ And then it will come out looking like a nice bar chart!
 ```
 ## Intro to APIs!
 
-The intro to APIs is in a file [that can be found here](https://github.com/barnabywalker/kew_coding_club/blob/master/APIsIntro.md).
+The intro to APIs is in a file [that can be found here](https://github.com/barnabywalker/kew_coding_club/blob/master/docs/session/intro_20200130_apis.md).
 
 Any questions? Type them below!
 
@@ -77,7 +77,7 @@ Any questions? Type them below!
 
 ## Challenges!
 
-A template notebook [can be found here](https://github.com/barnabywalker/kew_coding_club/blob/master/challenges_20200130_apis.ipynb). Download it if you want, or just completed the challenges in whatever environment suits you best!
+A template notebook [can be found here](https://github.com/barnabywalker/kew_coding_club/blob/master/challenges/20200130_apis.ipynb). Download it if you want, or just completed the challenges in whatever environment suits you best!
 
 Have a go at the challenges below. 
 
