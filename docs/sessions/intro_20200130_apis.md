@@ -34,3 +34,6 @@ When we are making a GET request we can have different responses from the server
 * 503; server not ready. Quite common as well. 
 
 # API basic examples
+
+This is a simple query to the gbif API to retrieve all the occurences between 1800 and 1899:
+http://api.gbif.org/v1/occurrence/search?year=1800,1899
